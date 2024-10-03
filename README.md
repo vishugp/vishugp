@@ -13,7 +13,7 @@ I have 3 years of experience in delivering data-driven solutions leveraging mach
 **📈 My interests include:**
 - AI in Robotics [GitHub](https://github.com/vishugp/swarm_collection)
 - Predictive Analytics [Github](https://github.com/Linear-Models-Project/financial_independence)
-- 
+- AI in Music
 
 **Connect with me:**
 [Email me: vish@virginia.edu](mailto:vish@virginia.edu)
